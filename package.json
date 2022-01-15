@@ -1,10 +1,10 @@
 {
-  "name": "ccxli-avatar",
+  "name": "avatars",
   "version": "0.0.1",
-  "description": "ccxli avatar as a service",
+  "description": "dhruv's starred avatars ready with basic customization",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "No tests yet"
   },
   "keywords": [],
   "author": "",
