@@ -1,6 +1,6 @@
 {
   "name": "avatars",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "dhruv's starred avatars ready with basic customization",
   "main": "index.js",
   "scripts": {
